@@ -1,0 +1,16 @@
+{
+  "id": "recomp-italian",
+  "name": "Traduzione Italiana (Rosso)",
+  "version": "0.1.0",
+  "author": "Berniuz",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Benvenuto nel mondo dei POKéMON, ora in ITALIANO."
+}
