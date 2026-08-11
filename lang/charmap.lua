@@ -1,9 +1,4 @@
 -- Which byte sequence draws which glyph code.
---
--- Sequences are matched longest-first, so a multi-byte character and a
--- multi-character ligature both work: "ch" can be one glyph even though
--- "c" is also mapped.  Codes here must land inside a page declared in
--- lang/font.lua.
 return {
   ["~"] = 0x100,
   ["ª"] = 0x101,
@@ -15,11 +10,11 @@ return {
   ["Ó"] = 0x107,
   ["Ú"] = 0x108,
   ["Ü"] = 0x109,
-  ["á"] = 0x10A,
-  ["í"] = 0x10B,
-  ["ñ"] = 0x10C,
-  ["ó"] = 0x10D,
-  ["ú"] = 0x10E,
+  ["à"] = 0x10A, -- Pesca la 'á'
+  ["ì"] = 0x10B, -- Pesca la 'í'
+  ["è"] = 0x104, -- Pesca temporaneamente la 'É' maiuscola per evitare l'ondina della ñ
+  ["ò"] = 0x10D, -- Pesca la 'ó'
+  ["ù"] = 0x10E, -- Pesca la 'ú'
   ["ü"] = 0x10F,
   ["¿"] = 0x110,
   ["¡"] = 0x111,
