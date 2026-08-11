@@ -1,12 +1,15 @@
 # Gen1Recomp-Italian-Translation
+Mod creata da Berniuz 
 
 Questa è una mod di traduzione in lingua italiana per il progetto **Gen 1 Recomp**. 
-*Nota: Questa repository contiene esclusivamente i file testuali di localizzazione (script Lua e manifest) e NON include alcun asset originale, ROM o codice sorgente del gioco base o dell'emulatore.*
+*Nota: Non include asset coperti da copyright originali del gioco base, ma solo script e texture grafiche modificate specificamente per la localizzazione.*
+ 
+ > Questa mod è un progetto amatoriale realizzato nel tempo libero, pertanto potrebbe contenere alcune imperfezioni. Vi ringrazio in anticipo per il supporto e vi invito a lasciare feedback e suggerimenti.
 
 ## Stato della Traduzione
-- Menu e Interfaccia: In corso
-- Dialoghi: In corso
-- Strumenti e Mosse: In corso
+- Menu e Interfaccia: Tradotto
+- Dialoghi: Tradotto (In fase di beta testing / revisione)
+- Strumenti e Mosse: Tradotto 
 
 ## Installazione (Android)
 1. Scarica l'ultimo file `.zip` disponibile nella sezione **Releases** di questa repository.
