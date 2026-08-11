@@ -11,14 +11,12 @@ Durante il gameplay potresti notare che alcune specifiche frasi di sistema, spec
 Attualmente, la versione in sviluppo del motore di *Gen 1 Recomp* contiene alcune stringhe di testo "hardcoded" (cablate direttamente nel codice sorgente) che aggirano il sistema di caricamento delle mod, rendendone impossibile la sovrascrittura. 
 Queste porzioni verranno tradotte nei futuri aggiornamenti della mod, non appena il team di sviluppo del progetto base abiliterà il supporto completo per la localizzazione di queste variabili.
  
- > Questa mod è un progetto amatoriale realizzato nel tempo libero, pertanto potrebbe contenere alcune imperfezioni. Vi ringrazio in anticipo per il supporto e vi invito a lasciare feedback e suggerimenti.
-
-
+> Questa mod è un progetto amatoriale realizzato nel tempo libero, pertanto potrebbe contenere alcune imperfezioni. Vi ringrazio in anticipo per il supporto e vi invito a lasciare feedback e suggerimenti.
 
 ## Stato della Traduzione
 - Menu e Interfaccia: Tradotto
-- Dialoghi: Tradotto (In fase di beta testing / revisione)
-- Strumenti e Mosse: Tradotto 
+- Dialoghi: Tradotto e testato (In fase di beta testing)
+- Strumenti, Mosse e Pokémon: Tradotto
 
 ## Installazione (Android)
 1. Scarica l'ultimo file `.zip` disponibile nella sezione **Releases** di questa repository.
