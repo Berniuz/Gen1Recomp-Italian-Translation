@@ -13,6 +13,13 @@ Queste porzioni verranno tradotte nei futuri aggiornamenti della mod, non appena
  
  > Questa mod è un progetto amatoriale realizzato nel tempo libero, pertanto potrebbe contenere alcune imperfezioni. Vi ringrazio in anticipo per il supporto e vi invito a lasciare feedback e suggerimenti.
 
+### ⚠️ Limitazioni Tecniche (Testi in Inglese)
+Durante il gameplay potresti notare che alcune specifiche frasi di sistema, specialmente all'interno dei menu di combattimento (es. messaggi di stato, azioni nemiche, logica di fuga), sono ancora visualizzate in inglese. 
+
+**Questo non è un errore o una dimenticanza della traduzione.** 
+Attualmente, la versione in sviluppo del motore di *Gen 1 Recomp* contiene alcune stringhe di testo "hardcoded" (cablate direttamente nel codice sorgente) che aggirano il sistema di caricamento delle mod, rendendone impossibile la sovrascrittura. 
+Queste porzioni verranno tradotte nei futuri aggiornamenti della mod, non appena il team di sviluppo del progetto base abiliterà il supporto completo per la localizzazione di queste variabili.
+
 ## Stato della Traduzione
 - Menu e Interfaccia: Tradotto
 - Dialoghi: Tradotto (In fase di beta testing / revisione)
