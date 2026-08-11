@@ -1,6 +1,6 @@
 {
   "id": "recomp-italian",
-  "name": "Traduzione ITA (by Berniuz)",
+  "name": "Traduzione ITA",
   "version": "0.1.0",
   "author": "Berniuz",
   "api": 2,
@@ -12,5 +12,5 @@
   "dependencies": [],
   "optional_dependencies": [],
   "conflicts": [],
-  "description": "Benvenuto nel mondo dei POKéMON, ora in ITALIANO."
+  "description": "Trad. ITA di Berniuz. Benvenuto nel mondo dei POKéMON.",
 }
