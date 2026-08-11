@@ -531,4 +531,5 @@ return {
   ["%d of %d enabled"] = "%d di %d attivate",
   ["Or drop a mod .zip onto the window."] = "O trascina una mod .zip sulla finestra.",
   ["No mods installed - drop a mod .zip here to add one."] = "Nessuna mod installata - trascina qui una mod .zip.",
+ 
 }
