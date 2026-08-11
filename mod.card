@@ -1,5 +1,5 @@
 return {
-    summary = "Traduzione completa in italiano di Pokémon Edizione Rossa per Gen 1 Recomp.",
+    summary = "Traduzione ITA di Berniuz. Benvenuto nel mondo dei POKéMON...",
     author = "Berniuz",
     support = "https://github.com/Berniuz/Gen1Recomp-Italian-Translation",
     tags = { "translation", "italian", "localization", "content" },
