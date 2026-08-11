@@ -295,7 +295,7 @@ return {
   ["_CeruleanPokecenterGuyText"] = "BILL ha un sacco\ndi POKéMON!\12E alcuni sono\nmolto rari!",
   ["_CeruleanPokecenterSuperNerdText"] = "Quel BILL!\12Dicono che farebbe\ndi tutto per\11avere POKéMON rari!",
   ["_CeruleanTradeHouseGrannyText"] = "A mio marito\npiace scambiare\11i POKéMON.\12Se sei un\ncollezionista,\11perché non fai\11scambi con lui?",
-  ["_CeruleanTrashedHouseFishingGuruTheyStoleATMText"] = "Maledetti ROCKET!\12Guarda cosa\nhanno combinato!\12Hanno rubato una\nMT per insegnare\11a EXCAVAR!\12E questo mi ha\ncreato un sacco\di problemi!",
+  ["_CeruleanTrashedHouseFishingGuruTheyStoleATMText"] = "Maledetti ROCKET!\12Guarda cosa\nhanno combinato!\12Hanno rubato una\nMT per insegnare\11a EXCAVAR!\12E questo mi ha\ncreato un sacco di problemi!",
   ["_CeruleanTrashedHouseFishingGuruWhatsLostIsLostText"] = "Quel che è perso,\nè perso!\12Così ho deciso di\ninsegnare a DIGLETT\11a EXCAVAR senza\11usare la MT!",
   ["_CeruleanTrashedHouseGirlText"] = "Il TEAM ROCKET\nstarebbe scavando\11per la sua via\11del male!",
   ["_CeruleanTrashedHouseWallHoleText"] = "Il TEAM ROCKET\nha aperto una\11nuova via!",
